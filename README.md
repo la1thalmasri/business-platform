@@ -1,0 +1,1 @@
+This is the business platform project. It will eventually become a platform for managing business operations.
